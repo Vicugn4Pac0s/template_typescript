@@ -1,1 +1,1 @@
-# typescript_template
+# Template TypeScript
